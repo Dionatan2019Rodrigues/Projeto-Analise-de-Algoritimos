@@ -8,6 +8,7 @@
 
 - Insertion sort
 - Selection sort
+- Merge sort
 
 ### Exercícios
 

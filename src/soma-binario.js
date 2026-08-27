@@ -1,3 +1,15 @@
+/*
+O algoritmo executa um laço (for) que itera exatamente (n) vezes
+(que é o tamanho dos arrays de entrada A e B). Dentro do
+laço, as operações realizadas
+levam um tempo constante Theta(1). Fora do laço, a inicialização
+do array e a atribuição final também são resolvidas em tempo
+proporcional a (n) e em tempo constante, respectivamente.
+Portanto, o tempo de execução cresce linearmente em relação
+ao tamanho da entrada.
+A complexidade de tempo deste algoritmo é Theta(n).
+*/
+
 function addBinaryIntegers(A, B) {
     const n = A.length;
     const C = new Array(n + 1).fill(0); //Cria o array C com n+1 elementos, inicializado com zeros
