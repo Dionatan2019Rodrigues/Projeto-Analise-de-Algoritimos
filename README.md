@@ -19,6 +19,9 @@
 ```
 node .\ arquivo.js
 ```
+```
+cmd /c "node .\index.js < .\index-entrada.txt"
+```
 
 ### Autor
 
