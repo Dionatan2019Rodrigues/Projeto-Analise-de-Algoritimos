@@ -9,6 +9,7 @@
 - Insertion sort
 - Selection sort
 - Merge sort
+- Mochila Fracionário(guloso)
 
 ### Exercícios
 
